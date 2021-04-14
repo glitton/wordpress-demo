@@ -24,7 +24,7 @@ Stack includes:
 - [gatsby-plugin-styled-components](https://www.gatsbyjs.org/packages/gatsby-plugin-styled-components/)
 - [gatsby-source-wordpress](https://www.gatsbyjs.com/plugins/gatsby-source-wordpress/)
 
-[View Gatsby Cloud Demo](https://wordpressdemomain.gatsbyjs.io/)
+[View Gatsby Cloud Demo](https://wordpressdemomain.gatsbyjs.io/) \
 [View Original Demo](https://gatsby-strapi-starter.netlify.com/)
 
 ## 🚀 Quick start for the Gatsby Strapi version
