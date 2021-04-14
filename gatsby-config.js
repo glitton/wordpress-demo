@@ -8,7 +8,7 @@ module.exports = {
     author: `Jeremy Lynch`,
     modified: `Generosa Litton for using with Wordpress`,
     originalSiteUrl: `https://gatsby-strapi-starter.netlify.com/`,
-    gatsbyCloudUrl: ``,
+    gatsbyCloudUrl: `https://wordpressdemomain.gatsbyjs.io/`,
     phone: "1800123456",
     fax: "180012345",
     address: "123 fake street",
