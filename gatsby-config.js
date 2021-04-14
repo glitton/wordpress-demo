@@ -7,7 +7,7 @@ module.exports = {
     description: `A slightly opinionated Gatsby Landing Page starter template. Modified to work with Wordpress`,
     author: `Jeremy Lynch`,
     modified: `Generosa Litton for using with Wordpress`,
-    originalSiteUrl: `https://gatsby-strapi-starter.netlify.com/`,
+    siteUrl: `https://gatsby-strapi-starter.netlify.com/`,
     gatsbyCloudUrl: `https://wordpressdemomain.gatsbyjs.io/`,
     phone: "1800123456",
     fax: "180012345",
