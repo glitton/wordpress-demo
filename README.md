@@ -8,7 +8,9 @@
   Gatsby Landing Page Starter
 </h1>
 
-A (slightly) opinionated Gatsby Strapi boilerplate to get started fast. Stack includes:
+This is based on the Gatsby Strapi boilerplate built by Jeremy Lynch (https://github.com/jeremylynch/gatsby-strapi-starter). This version is modified to use with Wordpress and Gatsby Cloud.
+
+Stack includes:
 
 - [Bootstrap](https://getbootstrap.com/)
 - [Reactstrap](https://reactstrap.github.io/)
@@ -20,11 +22,12 @@ A (slightly) opinionated Gatsby Strapi boilerplate to get started fast. Stack in
 - [gatsby-plugin-facebook-pixel](https://www.gatsbyjs.org/packages/gatsby-plugin-facebook-pixel)
 - [gatsby-plugin-manifest](https://www.gatsbyjs.com/plugins/gatsby-plugin-manifest/)
 - [gatsby-plugin-styled-components](https://www.gatsbyjs.org/packages/gatsby-plugin-styled-components/)
+- [gatsby-source-wordpress](https://www.gatsbyjs.com/plugins/gatsby-source-wordpress/)
 
 [View Original Demo](https://gatsby-strapi-starter.netlify.com/)
 [View Gatsby Cloud Demo](TO DO: ADD URL)
 
-## 🚀 Quick start
+## 🚀 Quick start for the Gatsby Strapi Version
 
 ```
 gatsby new gatsby-strapi-website https://github.com/jeremylynch/gatsby-strapi-starter
